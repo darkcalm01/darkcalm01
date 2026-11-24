@@ -1,4 +1,4 @@
-<h1 align="center">Lazlo Bride</h1>
+<h1 align="center">Lazlo</h1>
 <p align="center">Software Engineering Student at 42 Perpignan · C · Unix · Algorithms</p>
 
 ---
